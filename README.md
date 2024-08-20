@@ -87,9 +87,9 @@ This project is an automatic plant watering system based on NodeMCU (ESP8266) in
 1. Download and install the Blynk app on your smartphone.
 2. Create a new project and save the Blynk Authentication Token.
 3. Configure widgets to display soil moisture (V0), temperature (V2), light intensity (V5), and system status.
-<p align="center">
-<img src="https://github.com/user-attachments/assets/1cbe4d3c-53d5-4f9e-8007-9ea7678a784e">
-</p>
+
+>![image](https://github.com/user-attachments/assets/69ed4c82-7508-40ca-8709-99e3d5789ea6)
+
 
 
 ### 2. Arduino IDE Setup
